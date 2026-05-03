@@ -1,0 +1,2 @@
+# Haritha-Layomin-Portfolio
+A comprehensive professional portfolio documenting my transition from academic research to Managed Infrastructure Services. This repository contains the documentation, reflective journals, and career roadmap developed during my final year at SLIIT. It highlights my internship experience at Millennium IT ESP, research leadership in AI-driven screening systems, and my path toward Azure (AZ-104) and CCNA certification.
