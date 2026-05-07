@@ -69,8 +69,8 @@ const About = () => {
             >
               <div className="grid grid-cols-3 gap-4 md:gap-8">
                 {[
-                  { value: '2+', label: 'Years Experience' },
-                  { value: '3', label: 'Companies' },
+                  { value: '1+', label: 'Years Experience' },
+                  { value: '2', label: 'Companies' },
                   { value: '4', label: 'Certifications Planned' },
                 ].map(s => (
                   <div key={s.label}>

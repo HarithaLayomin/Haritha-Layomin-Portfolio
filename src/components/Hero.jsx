@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo } from 'react';
 import { Download, Linkedin, User, ChevronDown } from 'lucide-react';
 import { useInView } from '../hooks/useInView';
 
-const DESCRIPTION = 'Passionate about cloud and infrastructure — designing, deploying, and managing systems that are scalable, reliable, and built for the real world.';
+const DESCRIPTION = 'Passionate about cloud and infrastructure: designing, deploying, and managing systems that are scalable, reliable, and built for the real world.';
 
 const Hero = () => {
   const [imageFailed, setImageFailed] = useState(false);
@@ -128,8 +128,8 @@ const Hero = () => {
           style={{ transitionDelay: '0.65s' }}
         >
           <a
-            href="/Portfolio.Haritha.pdf"
-            download="portfolio_haritha.pdf"
+            href="/HarithaCV.pdf"
+            download="HarithaCV.pdf"
             className="btn-primary flex items-center justify-center gap-2"
           >
             <Download size={20} />

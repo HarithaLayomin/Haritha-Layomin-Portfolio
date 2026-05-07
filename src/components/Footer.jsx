@@ -36,8 +36,8 @@ const Footer = () => {
             LinkedIn
           </a>
           <a
-            href="/Portfolio.Haritha.pdf"
-            download="portfolio_haritha.pdf"
+            href="/HarithaCV.pdf"
+            download="HarithaCV.pdf"
             className="group flex items-center gap-2 px-5 py-2.5 rounded-xl bg-gradient-to-r from-azure-blue to-azure-light text-white text-sm font-medium hover:shadow-lg hover:shadow-azure-blue/30 hover:-translate-y-0.5 transition-all duration-300"
           >
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-4 h-4 group-hover:scale-110 transition-transform">

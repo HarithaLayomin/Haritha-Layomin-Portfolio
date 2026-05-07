@@ -5,7 +5,7 @@ const experiences = [
     company: 'MillenniumIT ESP',
     roles: [
       {
-        title: 'Helpdesk Analyst — Managed Infrastructure Services (BDO, Australia)',
+        title: 'Helpdesk Analyst | Managed Infrastructure Services (BDO, Australia)',
         period: 'May 2026 – Present',
         current: true,
         responsibilities: [
@@ -18,7 +18,7 @@ const experiences = [
         ],
       },
       {
-        title: 'Intern — Digital Infrastructure',
+        title: 'Intern | Digital Infrastructure',
         period: 'Nov 2025 – May 2026',
         current: false,
         responsibilities: [
@@ -37,7 +37,7 @@ const experiences = [
     company: 'Bank of Ceylon',
     roles: [
       {
-        title: 'IT Support Intern',
+        title: 'IT Support Intern | Technical Support',
         period: 'May 2025 – Nov 2025',
         current: false,
         responsibilities: [
