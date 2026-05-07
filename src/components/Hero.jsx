@@ -136,7 +136,7 @@ const Hero = () => {
             Download PDF Portfolio
           </a>
           <a
-            href="https://www.linkedin.com/in/haritha-layomin"
+            href="https://www.linkedin.com/in/haritha-layomin-warnakulasooriya"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-secondary flex items-center justify-center gap-2"

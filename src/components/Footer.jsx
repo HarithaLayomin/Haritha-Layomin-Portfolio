@@ -25,7 +25,7 @@ const Footer = () => {
         {/* Social links */}
         <div className="flex justify-center gap-4 mb-6">
           <a
-            href="https://www.linkedin.com/in/haritha-layomin"
+            href="https://www.linkedin.com/in/haritha-layomin-warnakulasooriya"
             target="_blank"
             rel="noopener noreferrer"
             className="group flex items-center gap-2 px-5 py-2.5 rounded-xl border border-theme hover:border-azure-blue hover:bg-azure-blue/8 transition-all duration-300 text-secondary hover:text-azure-blue text-sm font-medium"
