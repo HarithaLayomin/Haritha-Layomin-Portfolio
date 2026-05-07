@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Haritha Layomin - Portfolio Website
 
 A professional, modern portfolio website built with React and Tailwind CSS, showcasing my journey from MERN/Laravel development to Enterprise Infrastructure and Cloud specialization.
@@ -53,3 +54,7 @@ The website is fully customizable. Update the content in the respective componen
 ## License
 
 © 2024 Haritha Layomin. All rights reserved.
+=======
+# Haritha-Layomin-Portfolio
+A comprehensive professional portfolio documenting my transition from academic research to Managed Infrastructure Services. 
+>>>>>>> 76848c64bf5ac2ce12182bd1c7979ad20bb5844e

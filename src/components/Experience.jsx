@@ -7,20 +7,30 @@ const Experience = () => {
       roles: [
         {
           title: 'Intern - Digital Infrastructure',
-          period: '2024 - Present',
+          period: 'Nov 2025 - May 2026',
           responsibilities: [
-            'Managed Active Directory environments and user authentication systems',
-            'Implemented Role-Based Access Control (RBAC) workflows',
-            'Supported Windows Server administration and maintenance'
+            'Installed and configured printers and peripheral devices across the organization',
+            'Set up and configured new laptops and desktops for end users',
+            'Diagnosed and repaired hardware issues for RAM, SSDs, batteries, keyboards, and other internal parts',
+            'Installed and configured MS 365, SentinelOne, and FortiClient VPN on user systems',
+            'Executed OS deployment using ManageEngine for efficient system provisioning',
+            'Performed Active Directory tasks including password resets, account unlocks, and cleanup of duplicate/inactive computer objects',
+            'Resolved BitLocker encryption issues using recovery keys through ManageEngine',
+            'Provided remote technical support and managed incidents through SummitAI ticketing',
+            'Maintained and updated IT asset records using ManageEngine'
           ]
         },
         {
-          title: 'Intern - Managed Services',
-          period: '2024 - Present',
+          title: 'Helpdesk Analyst - Managed Infrastructure Services (BDO Project, Australia)',
+          period: 'May 2026 - Present',
           responsibilities: [
-            'Monitored and maintained enterprise infrastructure systems',
-            'Assisted in network configuration and security implementations',
-            'Participated in incident response and system troubleshooting'
+            'Provided desktop and remote support for end users on the BDO Australia project',
+            'Provided 24/7 technical support for critical systems and applications, ensuring minimal downtime and disruption to business operations',
+            'Managed incidents and service requests through ServiceNow ticketing',
+            'Assigned tickets to suitable support groups and coordinated escalations',
+            'Communicated with clients through the ticketing system and provided timely updates',
+            'Collaborated with engineers and cross-functional teams to resolve issues efficiently',
+            'Maintained documentation of support processes and solutions for knowledge sharing',
           ]
         }
       ]
@@ -30,11 +40,16 @@ const Experience = () => {
       roles: [
         {
           title: 'IT Support Intern',
-          period: '2023 - 2024',
+          period: 'May 2025 - Nov 2025',
           responsibilities: [
-            'Provided technical support for banking software systems',
-            'Assisted in hardware maintenance and software deployment',
-            'Contributed to IT infrastructure documentation'
+            'Troubleshot and resolved system issues across branch IT systems to ensure smooth daily operations',
+            'Configured new PCs with IP assignment and joined devices to the bank domain',
+            'Diagnosed and fixed hardware issues for printers, PCs, and peripheral devices',
+            'Managed ITSM support portal to log, track, and resolve incidents and service requests',
+            'Installed and configured required software applications on user PCs',
+            'Created and maintained user profiles, including password resets, unlocking accounts, and provisioning temporary admin access',
+            'Provided remote and phone-based support to branches, identifying issues and delivering effective solutions',
+            'Collaborated with teams to maintain IT infrastructure reliability and enhance system performance'
           ]
         }
       ]

@@ -7,10 +7,11 @@ const Skills = () => {
       icon: Shield,
       skills: [
         'Active Directory',
-        'Windows Server',
-        'Networking',
-        'Cloud Computing',
-        'System Administration'
+        'ManageEngine',
+        'ITSM / SummitAI / ServiceNow Ticketing',
+        'BitLocker & Endpoint Security',
+        'OS Deployment',
+        'Hardware Troubleshooting',
       ]
     },
     {
@@ -18,10 +19,10 @@ const Skills = () => {
       icon: Code2,
       skills: [
         'MERN Stack',
-        'PHP/Laravel',
+        'PHP / Laravel',
         'Python',
-        'JavaScript',
-        'React'
+        'React',
+        'JavaScript'
       ]
     }
   ];

@@ -16,7 +16,7 @@ const Projects = () => {
     },
     {
       title: 'Gem Management System',
-      role: 'Backend Developer',
+      role: 'Full Stack Developer',
       description: 'Created a Laravel-based system for managing gemstone inventory, sales tracking, and supplier relationships.',
       tech: ['Laravel', 'PHP', 'MySQL', 'Bootstrap']
     }

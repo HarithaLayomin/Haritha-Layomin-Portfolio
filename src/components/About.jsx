@@ -11,9 +11,13 @@ const About = () => {
         <div className="prose prose-lg prose-invert mx-auto">
           <p className="text-gray-300 leading-relaxed">
             I began my journey in software development, working extensively with MERN stack and Laravel frameworks.
-            However, my passion for enterprise infrastructure led me to pivot towards Cloud Infrastructure and Enterprise IT.
-            Currently, I serve as an Intern in Managed Infrastructure Services at MillenniumIT ESP, where I&apos;m gaining hands-on
-            experience in managing critical enterprise systems.
+            Over time, I shifted focus toward Enterprise Infrastructure and Cloud services because I wanted to build reliable,
+            scalable systems from the ground up.
+          </p>
+          <p className="text-gray-300 leading-relaxed">
+            I previously served as an Intern in the Digital Infrastructure department at MillenniumIT ESP from November 2025 to May 2026.
+            Today, I work as a Helpdesk Analyst on the BDO project (Australia) in the Managed Infrastructure Services department,
+            supporting enterprise operations and delivering fast technical support across critical systems.
           </p>
         </div>
       </div>
