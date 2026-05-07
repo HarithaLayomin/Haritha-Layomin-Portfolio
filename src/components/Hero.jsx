@@ -27,13 +27,10 @@ const Hero = () => {
         <p className="text-lg sm:text-xl text-azure-blue font-semibold mb-2">
           Intern - Managed Infrastructure Services | Final Year BSc (Hons) in IT @ SLIIT
         </p>
-        <p className="text-xl sm:text-2xl text-gray-300 mb-8">
-          Final Year IT Student specializing in Infrastructure & Cloud
-        </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
-            href="/portfolio.pdf"
-            download
+            href="/Portfolio.Haritha.pdf"
+            download="portfolio_haritha.pdf"
             className="btn flex items-center justify-center gap-2"
           >
             <Download size={20} />
