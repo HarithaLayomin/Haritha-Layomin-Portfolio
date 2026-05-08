@@ -9,11 +9,11 @@ const experiences = [
         period: 'May 2026 – Present',
         current: true,
         responsibilities: [
-          'Supported Engineers to provide 24/7 technical support for critical systems, ensuring minimal downtime',
+          'Coordinated 24/7 technical support for critical systems by bridging the gap between clients and engineering teams',
           'Managed incidents and service requests through ServiceNow ticketing',
           'Assigned tickets to suitable support groups and coordinated escalations',
           'Communicated with clients and provided timely updates through ticketing system',
-          'Collaborated with engineers and cross-functional teams to resolve issues efficiently',
+          'Facilitated the resolution of complex issues by collaborating with engineers and cross-functional teams',
         ],
       },
       {

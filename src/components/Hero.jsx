@@ -103,7 +103,7 @@ const Hero = () => {
             }`}
           style={{ transitionDelay: '0.35s' }}
         >
-          Intern · Managed Infrastructure Services &nbsp;|&nbsp; Final Year BSc (Hons) IT @ SLIIT
+          Service Desk Analyst | Managed Infrastructure Services &nbsp;|&nbsp; Final Year BSc (Hons) IT @ SLIIT
         </p>
 
         {/* Typewriter description */}

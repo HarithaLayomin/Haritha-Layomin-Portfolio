@@ -49,8 +49,9 @@ const About = () => {
             <h3 className="text-azure-blue font-semibold text-sm uppercase tracking-wider mb-3">Where I Work</h3>
             <p className="text-secondary leading-relaxed text-sm">
               I previously interned in the Digital Infrastructure department at MillenniumIT ESP. Today,
-              I work as a Helpdesk Analyst on the BDO project (Australia) in Managed Infrastructure Services,
-              supporting enterprise operations and delivering fast technical support across critical systems.
+              I work as a Service Desk Analyst on the BDO project (Australia) in Managed Infrastructure Services,
+              coordinating technical incidents via ServiceNow and collaborating with engineers to ensure
+              seamless operations across critical systems.
             </p>
           </div>
 
