@@ -9,8 +9,7 @@ const experiences = [
         period: 'May 2026 – Present',
         current: true,
         responsibilities: [
-          'Provided desktop and remote support for end users on the BDO Australia project',
-          'Delivered 24/7 technical support for critical systems, ensuring minimal downtime',
+          'Supported Engineers to provide 24/7 technical support for critical systems, ensuring minimal downtime',
           'Managed incidents and service requests through ServiceNow ticketing',
           'Assigned tickets to suitable support groups and coordinated escalations',
           'Communicated with clients and provided timely updates through ticketing system',

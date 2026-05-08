@@ -71,9 +71,8 @@ const Hero = () => {
 
         {/* Profile image */}
         <div
-          className={`profile-ring mx-auto mb-8 w-40 h-40 rounded-full overflow-hidden transition-all duration-1000 ${
-            inView ? 'opacity-100 scale-100' : 'opacity-0 scale-75'
-          }`}
+          className={`profile-ring mx-auto mb-8 w-40 h-40 rounded-full overflow-hidden transition-all duration-1000 ${inView ? 'opacity-100 scale-100' : 'opacity-0 scale-75'
+            }`}
         >
           {!imageFailed ? (
             <img
@@ -91,9 +90,8 @@ const Hero = () => {
 
         {/* Name */}
         <h1
-          className={`text-5xl sm:text-7xl font-black mb-4 gradient-text transition-all duration-700 ${
-            inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
-          }`}
+          className={`text-5xl sm:text-7xl font-black mb-4 gradient-text transition-all duration-700 ${inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
+            }`}
           style={{ transitionDelay: '0.2s' }}
         >
           Haritha Layomin
@@ -101,9 +99,8 @@ const Hero = () => {
 
         {/* Title */}
         <p
-          className={`text-base sm:text-lg text-azure-blue font-semibold mb-6 transition-all duration-700 ${
-            inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
-          }`}
+          className={`text-base sm:text-lg text-azure-blue font-semibold mb-6 transition-all duration-700 ${inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
+            }`}
           style={{ transitionDelay: '0.35s' }}
         >
           Intern · Managed Infrastructure Services &nbsp;|&nbsp; Final Year BSc (Hons) IT @ SLIIT
@@ -111,9 +108,8 @@ const Hero = () => {
 
         {/* Typewriter description */}
         <p
-          className={`text-base sm:text-lg text-secondary max-w-2xl mx-auto leading-relaxed mb-10 min-h-[3rem] transition-all duration-700 ${
-            inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
-          }`}
+          className={`text-base sm:text-lg text-secondary max-w-2xl mx-auto leading-relaxed mb-10 min-h-[3rem] transition-all duration-700 ${inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
+            }`}
           style={{ transitionDelay: '0.5s' }}
         >
           {typedText}
@@ -122,14 +118,13 @@ const Hero = () => {
 
         {/* CTA Buttons */}
         <div
-          className={`flex flex-col sm:flex-row gap-4 justify-center transition-all duration-700 ${
-            inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
-          }`}
+          className={`flex flex-col sm:flex-row gap-4 justify-center transition-all duration-700 ${inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
+            }`}
           style={{ transitionDelay: '0.65s' }}
         >
           <a
-            href="/HarithaCV.pdf"
-            download="HarithaCV.pdf"
+            href="/Portfolio_Haritha.pdf"
+            download="Portfolio.Haritha.pdf"
             className="btn-primary flex items-center justify-center gap-2"
           >
             <Download size={20} />
@@ -148,9 +143,8 @@ const Hero = () => {
 
         {/* Scroll indicator */}
         <div
-          className={`mt-16 transition-all duration-700 ${
-            inView ? 'opacity-100' : 'opacity-0'
-          }`}
+          className={`mt-16 transition-all duration-700 ${inView ? 'opacity-100' : 'opacity-0'
+            }`}
           style={{ transitionDelay: '1s' }}
         >
           <a href="#about" className="inline-block animate-bounce-slow">
