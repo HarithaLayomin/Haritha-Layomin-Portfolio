@@ -5,7 +5,7 @@ const experiences = [
     company: 'MillenniumIT ESP',
     roles: [
       {
-        title: 'Helpdesk Analyst | Managed Infrastructure Services (BDO, Australia)',
+        title: 'Service Desk Analyst | Managed Infrastructure Services (BDO, Australia)',
         period: 'May 2026 – Present',
         current: true,
         responsibilities: [
