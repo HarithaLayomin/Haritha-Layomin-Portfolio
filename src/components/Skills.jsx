@@ -8,12 +8,14 @@ const skillCategories = [
     skills: [
       'Active Directory',
       'ManageEngine',
-      'ServiceNow / SummitAI',
+      'ServiceNow / SummitAI / ITSM Suppport Portal',
       'BitLocker & Endpoint Security',
       'OS Deployment',
       'Hardware Troubleshooting',
-      'MS 365 Administration',
-      'FortiClient VPN',
+      'Printer & Peripheral Support',
+      'User Management',
+      'Ticketing & Incident Management',
+      
     ],
   },
   {
