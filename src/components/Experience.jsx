@@ -36,7 +36,7 @@ const experiences = [
     company: 'Bank of Ceylon',
     roles: [
       {
-        title: 'IT Support Intern | Technical Support',
+        title: 'Intern | Technical Support',
         period: 'May 2025 – Nov 2025',
         current: false,
         responsibilities: [
@@ -126,7 +126,9 @@ const Experience = () => {
                 style={{ transitionDelay: `${ei * 0.15}s` }}
               >
                 <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-azure-blue to-azure-light flex items-center justify-center shadow-md shadow-azure-blue/30 flex-shrink-0">
-                  <span className="text-white font-bold text-xs">{exp.company.slice(0, 2).toUpperCase()}</span>
+                  <span className="text-white font-bold text-xs">
+                    {exp.company.includes('MillenniumIT') ? 'MIT' : exp.company.includes('Bank of Ceylon') ? 'BOC' : exp.company.slice(0, 2).toUpperCase()}
+                  </span>
                 </div>
                 <h3 className="text-lg font-bold text-primary">{exp.company}</h3>
               </div>
