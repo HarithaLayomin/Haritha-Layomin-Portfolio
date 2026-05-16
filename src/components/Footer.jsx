@@ -35,7 +35,7 @@ const Footer = () => {
             LinkedIn
           </a>
           <a
-            href="/HarithaCV_old.pdf"
+            href="/HarithaCV.pdf"
             download="HarithaCV.pdf"
             className="group flex items-center gap-2 px-5 py-2.5 rounded-xl bg-gradient-to-r from-azure-blue to-azure-light text-white text-sm font-medium hover:shadow-lg hover:shadow-azure-blue/30 hover:-translate-y-0.5 transition-all duration-300"
           >

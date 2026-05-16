@@ -15,6 +15,7 @@ const skillCategories = [
       'Printer & Peripheral Support',
       'User Management',
       'Ticketing & Incident Management',
+      'PC Setup & Configuration',
       
     ],
   },
@@ -25,10 +26,8 @@ const skillCategories = [
     skills: [
       'Microsoft Azure (Learning)',
       'AZ-900 (Planned 2026)',
-      'TCP/IP & DNS',
-      'Domain Management',
       'Remote Desktop Support',
-      'ITSM Processes',
+      'Remote assistance',
     ],
   },
   {
@@ -42,6 +41,14 @@ const skillCategories = [
       'React',
       'JavaScript',
       'MySQL',
+      'MongoDB',
+      'HTML',
+      'CSS',
+      'Tailwind CSS',
+      'Bootstrap',
+      'Firebase',
+      'Agile Methodologies',
+      'Frontend & Backend Development',
     ],
   },
 ];
