@@ -125,10 +125,30 @@ const Experience = () => {
                 }`}
                 style={{ transitionDelay: `${ei * 0.15}s` }}
               >
-                <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-azure-blue to-azure-light flex items-center justify-center shadow-md shadow-azure-blue/30 flex-shrink-0">
-                  <span className="text-white font-bold text-xs">
+                <div className={`w-10 h-10 rounded-xl flex flex-col items-center justify-center shadow-md flex-shrink-0 ${
+                  exp.company.includes('Bank of Ceylon')
+                    ? 'bg-white shadow-black/20'
+                    : exp.company.includes('MillenniumIT')
+                    ? 'bg-black shadow-black/40'
+                    : 'bg-gradient-to-br from-azure-blue to-azure-light shadow-azure-blue/30'
+                }`}>
+                  <span className={`font-bold text-xs leading-none ${
+                    exp.company.includes('Bank of Ceylon')
+                      ? 'text-yellow-500'
+                      : exp.company.includes('MillenniumIT')
+                      ? 'text-white'
+                      : 'text-white'
+                  }`}
+                  style={exp.company.includes('Bank of Ceylon') ? {
+                    textShadow: '0 0 0 1px white, 0 0 0 2px white'
+                  } : {}}>
                     {exp.company.includes('MillenniumIT') ? 'MIT' : exp.company.includes('Bank of Ceylon') ? 'BOC' : exp.company.slice(0, 2).toUpperCase()}
                   </span>
+                  {exp.company.includes('MillenniumIT') && (
+                    <span className="text-white font-bold text-[0.4rem] leading-none ml-1">
+                      ESP
+                    </span>
+                  )}
                 </div>
                 <h3 className="text-lg font-bold text-primary">{exp.company}</h3>
               </div>
