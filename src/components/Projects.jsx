@@ -11,7 +11,7 @@ const projects = [
   },
   {
     title: 'Student Portal',
-    role: 'Full Stack Developer',
+    role: 'Developer',
     description: 'Built a comprehensive student management system with user authentication, course enrollment, and grade tracking features.',
     tech: ['React', 'Node.js', 'MongoDB', 'Express.js'],
     icon: '🎓',
@@ -19,7 +19,7 @@ const projects = [
   },
   {
     title: 'Gem Management System',
-    role: 'Full Stack Developer',
+    role: 'Developer',
     description: 'Created a Laravel-based system for managing gemstone inventory, sales tracking, and supplier relationships.',
     tech: ['Laravel', 'PHP', 'MySQL', 'Bootstrap'],
     icon: '💎',
